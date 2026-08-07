@@ -4,7 +4,8 @@ A simple CALCULATOR built using HTML, CSS, and JavaScript.
 
 ## Screenshot
 
-<img width="1661" height="972" alt="image" src="https://github.com/user-attachments/assets/6701deb9-75b4-4ef3-81a8-4cc5fa3cea41" />
+<img width="1122" height="965" alt="image" src="https://github.com/user-attachments/assets/29b15bbe-e4af-47b5-9f6c-f3c1f8f97d0e" />
+
 
 
 
